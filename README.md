@@ -1,6 +1,13 @@
 # Analysis of Meta Facebook advertising daily account reports
 This project aims to provide the general background and performance of 1000 records of 53 Meta Facebook advertising accounts, which from that visualizing the result as well as giving valuable insights and suggestions for the executives. The dataset contains the daily report of each individual account recorded from October to November 2026.
 
+The objectives of the analysis is to answer these five main questions:
+* Is the agency generating sufficient returns from ad investment?
+* How efficiently is the agency requiring customers?
+* Is the agency generating enough qualified potential customers?
+* Where is the agency losing potential customers in the conversion journey?
+* Which ad accounts are driving business performance, and which require attention?
+
 ## Overview
 The dataset comprises of 1000 value rows and 44 columns, with their following descriptions:
 | Column    | Description |
