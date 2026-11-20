@@ -51,6 +51,18 @@ The dataset comprises of 1000 value rows and 44 columns, with their following de
 |<kbd>thruPlay</kbd>|	Number of times users watched video advertisements for a meaningful duration|
 
 ## Analysis architecture
-![Local image](./imgs/data_architecture.png)
+![Local image](https://github.com/ayuhcode/DA_account_daily_report_fb_ads/blob/4957dc5c3fc58815c7ee2a9f3cb6ddc973dfb49d/imgs/data%20architecture.png)
+### Tools used
+* Excel: Data import, data inspecting, EDA, data transformation
+* R: Exploring distributions and trends, detecting outliers and validating data
+* Power BI Desktop: Data visualization
+* GitHub: Version control and results interpretation
 
+## Repo structure
 
+## Contact
+This project is made by Phạm Quang Chính (`ayuhcode`). This is also my very first project into Data Analysis, so I will be much glad to receive some feedbacks to improve the overall quality and processing of data.
+
+My contact through:
+* Gmail: quangchinh2409@gmail.com
+* Facebook: https://www.facebook.com/qchinh06
