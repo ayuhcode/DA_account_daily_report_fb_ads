@@ -1,0 +1,3 @@
+# Exploratory Data Analysis
+<p>In this stage I will demonstrate the process of data inspect and data transformation through R and Excel.</p>
+<p>Firstly, we will import the `csv` file into R:</p>
